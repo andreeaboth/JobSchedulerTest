@@ -1,0 +1,5 @@
+
+\squid:S1858"@"getTag" returns a string, there's no need to call "toString()".(àá•¤8Ç˜¡âÊ+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8½»›àÊ+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8½»›àÊ+
+jsquid:UselessImportCheck"BRemove this unused import 'com.firebase.jobdispatcher.JobService'.(Ñ³¶Z8ŠºªàÊ+

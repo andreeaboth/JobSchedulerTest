@@ -1,0 +1,15 @@
+
+” squid:MethodCyclomaticComplexity"^The Cyclomatic Complexity of this method "onCreate" is 12 which is greater than 10 authorized.(¨Œşÿÿÿÿ8Á®ÖŞÊ+
+psquid:S1192"TDefine a constant instead of duplicating this literal "UniqueTagForYourJob" 3 times.(â¯¼Ë8ú¥³ÚÊ+
+nsquid:S1192"MDefine a constant instead of duplicating this literal "Disable doze" 3 times.(Î××Øşÿÿÿÿ8ß«ÛŞÊ+
+h
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÈÈÿ(8Á®ÖŞÊ+
+wsquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "job".(²Äá¤8ú¥³ÚÊ+
+zsquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "newJob".(Î§É÷8ú¥³ÚÊ+
+Fsquid:S00108")Either remove or fill this block of code.(ŸŸ•Ğ8õíÙŞÊ+
+csquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(²Ú±
+wsquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "job".(²Äá¤8Ê«”àÊ+
+Fsquid:S00108")Either remove or fill this block of code.(å¥‡8õíÙŞÊ+
+n
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(‘¦ÀŒúÿÿÿÿ8Á®ÖŞÊ+
+jsquid:UselessImportCheck"BRemove this unused import 'com.firebase.jobdispatcher.JobService'.(Ñ³¶Z8Å˜°àÊ+
