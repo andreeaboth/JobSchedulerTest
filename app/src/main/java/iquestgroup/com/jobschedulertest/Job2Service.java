@@ -18,7 +18,7 @@ public class Job2Service extends SimpleJobService {
     public boolean onStartJob(final JobParameters job) {
         super.onStartJob(job);
 
-        Log.d(LOG_TAG, "onStartJob: " + job.getTag().toString());
+        Log.d(LOG_TAG, "onStartJob: " + job.getTag().toString()+"test");
         new Thread(new Runnable() {
             @Override
             public void run() {
